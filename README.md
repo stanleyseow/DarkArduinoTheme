@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/jeffThompson/DarkArduinoTheme/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/stanleyseow/DarkArduinoTheme/master/screenshot.png)
 
 Dark Arduino Theme
 ================
@@ -33,10 +33,11 @@ Orange, 60%
 `editor.function.style = #FFAD33,plain`
 
 **STRUCTURES**
-Dark Green, 22%
+Reserve words ( loop, setup, while )
+Dark green, 50%
 
-`editor.keyword3.style = #5E6D03,plain`
-`editor.reserved_word.style = #5E6D03,plain`
+`editor.keyword3.style = #D8F906,plain`
+`editor.reserved_word.style = #D8F906,plain`
 
 
 **Built-in variables, literals, reverse words, data types**
@@ -49,9 +50,9 @@ Light blue, 31%
 `editor.literal_char.style = #00979C,plain`
 
 **Preprocessors** (#ifdef, #defines, #endif)  
-Dark green, 22%
+Blue, 60%
 
-`editor.preprocessor.style = #5E6D03,plain`
+`editor.preprocessor.style = #3399ff,plain`
 
 **Comments colours**
 Grey, 67%
@@ -63,6 +64,13 @@ Grey, 67%
 Light grey, 25%
 
 `editor.selection.color = #404040`
+
+**ToDo**
+
+* Curly brackets
+* Numbers ( currently yellow )
+* Variable name ( currently white )
+
 
 
 \- \- \-
