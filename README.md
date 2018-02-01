@@ -20,43 +20,49 @@ https://www.w3schools.com/colors/colors_picker.asp
 
 This is what I found by trial and errors :-
 
-#### TEXT - KEYWORDS
-#### FUNCTIONS
-#### Orange, 60%
-editor.keyword1.style = #FFAD33,bold
-editor.data_type.style = #FFAD33,bold
+**TEXT - KEYWORDS FUNCTIONS** 
+Orange, 60% 
 
-#### METHODS
-#### Orange, 60%
-editor.keyword2.style = #FFAD33,plain
-editor.function.style = #FFAD33,plain
+`editor.keyword1.style = #FFAD33,bold`
+`editor.data_type.style = #FFAD33,bold`
 
-#### STRUCTURES
-#### Dark Green, 22%
-editor.keyword3.style = #5E6D03,plain
-editor.reserved_word.style = #5E6D03,plain
+**METHODS**
+Orange, 60%
+
+`editor.keyword2.style = #FFAD33,plain`
+`editor.function.style = #FFAD33,plain`
+
+**STRUCTURES**
+Dark Green, 22%
+
+`editor.keyword3.style = #5E6D03,plain`
+`editor.reserved_word.style = #5E6D03,plain`
 
 
-#### Built-in variables, litarals, reverse words, boolean, char
-#### Light blue, 31%
-editor.literal2.style = #00979C,plain
-editor.variable.style = #00979C,plain
-editor.reserved_word_2.style = #00979C,plain
-editor.literal_boolean.style = #00979C,plain
-editor.literal_char.style = #00979C,plain
+**Built-in variables, literals, reverse words, data types**
+Light blue, 31%
 
-#### Preprocessors #ifdef, #defines, #endif
-#### Dark green, 22%
-editor.preprocessor.style = #5E6D03,plain
+`editor.literal2.style = #00979C,plain`
+`editor.variable.style = #00979C,plain`
+`editor.reserved_word_2.style = #00979C,plain`
+`editor.literal_boolean.style = #00979C,plain`
+`editor.literal_char.style = #00979C,plain`
 
-#### Comments colours
-#### Grey, 67%
-editor.comment1.style = #aaaaaa,plain
-editor.comment2.style = #aaaaaa,plain
+**Preprocessors** (#ifdef, #defines, #endif)  
+Dark green, 22%
 
-#### selection area
-#### light grey, 25%
-editor.selection.color = #404040
+`editor.preprocessor.style = #5E6D03,plain`
+
+**Comments colours**
+Grey, 67%
+
+`editor.comment1.style = #aaaaaa,plain`
+`editor.comment2.style = #aaaaaa,plain`
+
+**Selection area**
+Light grey, 25%
+
+`editor.selection.color = #404040`
 
 
 \- \- \-
